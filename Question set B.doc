@@ -1,0 +1,22 @@
+---------------------------QUESTION SET B
+--------------------------------------------------------------------------------- ------------------------------------------------------------------
+-- question 3
+-- During the transaction period of Sep 2015 to Dec 2015, calculate the total no. of defects raised (defect type description not equal to 'No Defect') for domestic transactions (same buyer & seller country) with a country wise and defect type wise split.
+
+-- question 4
+-- For the period Sep 2015 to Dec 2015 in US(consider buyer's country), find out the Services and their respective Carriers with most Delivery Miss defect(Delivery Miss is a type of defect). Each carrier provides multiple services e.g., Fast Shipping, Economy Shipping etc. Provide the top 3 combinations of carrier and service.
+
+	   	  
+------------------------------------------------------------------------------- ------------------------------------------------------------------
+
+-- question 23
+-- In June 2015 considering only those buyers having more than 2 transactions in that month, identify the top leaf category names based on total number of items purchased.
+
+-- question 24
+-- what is the average number of days for a seller to make a defective transaction.
+-- Hint: Average Number of days between the first transaction date and the transaction date with a defect
+
+------------------------------------------------------------------------------ ------------------------------------------------------------------
+
+-- question 50
+-- Find the top 3 sellers who had shipped the most number of items within 10 days of transaction in 2015
